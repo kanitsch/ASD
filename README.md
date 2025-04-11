@@ -1,0 +1,1 @@
+The repository contains exercises for Algorithms and Data Structures course 2023/2024, including offline tasks, colloquiums and exams. There are also previous years' tasks done in preparation for the exam.
