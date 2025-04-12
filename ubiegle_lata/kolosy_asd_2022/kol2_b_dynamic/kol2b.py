@@ -1,6 +1,5 @@
 from kol2btesty import runtests
 
-# mam lepsze rozwiazanie w offline9 2023 ale nie pamietam czy pisalam go sama czy przekopiowalam
 
 def min_cost( O, C, T, L ):
     n=len(O)
